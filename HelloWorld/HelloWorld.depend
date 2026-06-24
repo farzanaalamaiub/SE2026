@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1743445502 source:c:\users\farza\onedrive\documents\pl1\helloworld\main.c
+	<stdio.h>
+	<stdlib.h>
+
